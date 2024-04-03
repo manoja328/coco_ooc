@@ -1,5 +1,5 @@
 # Out of Context detection
-Official dataset repo for the IJCAI paper: Detecting Out-Of-Context Objects Using Graph Contextual Reasoning Network. Read the paper here https://www.ijcai.org/proceedings/2022/89
+Official repo for the IJCAI paper: Detecting Out-Of-Context Objects Using Graph Contextual Reasoning Network, Paper link: https://www.ijcai.org/proceedings/2022/89
 
 ## Abstract
 This paper presents an approach for detecting out-of-context (OOC) objects in images. Given an image with a set of objects, our goal is to determine if an object is inconsistent with the contextual relations and detect the OOC object with a bounding box. In this work, we consider common contextual relations such as co-occurrence relations, the relative size of an object with respect to other objects, and the position of the object in the scene. We posit that contextual cues are useful to determine object labels for in-context objects and inconsistent context cues are detrimental to determining object labels for out-of-context objects. 
